@@ -1,0 +1,10 @@
+{
+    "name": "cwp-22-1",
+    "author": "Eugene Kurlovich",
+    "description": "Polish Notation",
+    "version": "1.0.0",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/EugeneKurlovich/cwp-22.1.git"
+    }
+  }
